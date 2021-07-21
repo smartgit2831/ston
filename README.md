@@ -4,5 +4,5 @@
 <head>
 </head>
 <body>
-   <p> salam </p>
+   <p> سلام </p>
 </body>
